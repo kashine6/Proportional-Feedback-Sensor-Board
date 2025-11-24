@@ -66,16 +66,16 @@ If your MMU board's ADC pin **does not** include a pull-up resistor and you want
 
 ## 📦 Bill of Materials (BOM)
 
-| Item                        | Specification                       | Quantity |
-| --------------------------- | ----------------------------------- | -------- |
-| **PSF Board**               | —                                   | x1       |
-| **Spring**                  | 0.4 mm × 6 mm × 25 mm, spring steel | x1       |
-| **Magnet**                  | D4 mm × 15 mm N35                   | x1       |
-| **ECAS04 Bowden connector** | —                                   | x2       |
+| Item                            | Specification                       | Quantity |
+| ------------------------------- | ----------------------------------- | -------- |
+| **PSF Board**                   | —                                   | 1        |
+| **Spring**                      | 0.4 mm × 6 mm × 25 mm, spring steel | 1        |
+| **Magnet**                      | D4 mm × 15 mm N35                   | 1        |
+| **ECAS04 Bowden connector**     | —                                   | 2        |
+| **M2×6 mm self-tapping screw**  |                                     | 2        |
+| **M2×10 mm self-tapping screw** |                                     | 2        |
 
  
-
-**Testing Kit Availability**
 
 A testing version of the kit is now available on AliExpress:
 
