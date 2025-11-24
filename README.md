@@ -79,7 +79,7 @@ A list of recommended ADC-capable pins for common MMU boards will be provided be
 | **ECAS04 Bowden connector**     | —                                   | 2        |
 | **M2×6 mm self-tapping screw**  |                                     | 2        |
 | **M2×10 mm self-tapping screw** |                                     | 2        |
-
+| **5V-to-3.3V Step-Down Module** | optional                            | 1        |
  
 
 A testing version of the kit is now available on AliExpress:
