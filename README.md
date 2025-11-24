@@ -1,6 +1,6 @@
 # PSF (Proportional Sync Feedback) Sensor for MMU
 
-This is a Proportional Sync Feedback Sensor solution designed for MMU systems.
+This is a Mini Proportional Sync Feedback Sensor solution designed for MMU systems.
 
 <img src="Assets/8.png" width="70%"/>
 
